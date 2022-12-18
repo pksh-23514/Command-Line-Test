@@ -2,10 +2,8 @@
 
 <<Documentation
 Name         : Prabhat Kiran
-Date         :
-Description  :
-Sample Input :
-Sample Output:
+Date         : 5th July 2022
+Description  : The Linux Shell Scripting Project is to Implement a Login based Online Test Platform using BASH Shell and Commands.
 Documentation
 
 f1=0;f2=0;f3=0
