@@ -1,0 +1,4 @@
+Script started at Mon Jul  4 16:53:04 IST 2022.
+Sign-up successfully at Mon Jul  4 16:53:13 IST 2022.
+Sign-In successfully at Mon Jul  4 16:53:46 IST 2022.
+Script ended at Mon Jul  4 16:53:49 IST 2022.

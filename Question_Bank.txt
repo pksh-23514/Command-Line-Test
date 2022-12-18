@@ -1,0 +1,25 @@
+1) Direct Current produces a magnetic field similar to a permanent magnet. This magnetic field:
+[A] is unidirectional and has a steady magnitude
+[B] is unidirectional but its magnitude varies in regular pattern
+[C] has steady magnitude but changes direction in regular pattern
+[D] changes direction and magnitude in regular pattern
+2) Which among the following Radio frequencies are used around the world in air navigational system?
+[A] Very Low Frequency (VLF)
+[B] Very High Frequency (VHF)
+[C] Tetrahertz Radiation (THF)
+[D] Ultra High Frequency (UHF)
+3) Which of the following lie in the Tetra hertz frequency?
+[A] Visible Light and Infra Red
+[B] Infra Red and Microwaves
+[C] Microwaves and Radio Waves
+[D] Visible Light and Ultraviolet light
+4) With reference to a swinging pendulum, which among the following statements is correct when it is at bottom (middle of arc)?
+[A] It has maximum kinetic energy and minimum potential energy
+[B] It has maximum potential energy and minimum kinetic energy
+[C] It has zero kinetic energy
+[D] It has zero total energy
+5) On heating a pure silicon circular disc with a circular hole at the centre, the diameter of the hole:
+[A] will expand
+[B] will contract
+[C] will remain constant
+[D] may expand or contract
